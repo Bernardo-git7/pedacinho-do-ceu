@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://umpedacinhodoceu.com.br/sitemap.xml
